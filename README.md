@@ -10,3 +10,6 @@
   
 I hope this file helps you find the sound effects you want to extract!  
 Happy modding!
+
+
+Big thanks to [Seberoth's CpBnkReader](https://github.com/seberoth/CpBnkReader) and [HitmanHimself's cp77research](https://github.com/HitmanHimself/cp77research) repositories, whose code I ~~stole~~ used to get the information needed for this.
