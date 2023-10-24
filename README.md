@@ -7,9 +7,15 @@
 - This repository contains a file named `sfx_map.json`.
 - It contains all SFX events, their tags and info about the audio files the event triggers.
 - Info about the audio files (if found) includes in which opuspak and where in the opuspak the audio is.
-  
+
 I hope this file helps you find the sound effects you want to extract!  
 Happy modding!
 
+---
 
-Big thanks to [Seberoth's CpBnkReader](https://github.com/seberoth/CpBnkReader) and [HitmanHimself's cp77research](https://github.com/HitmanHimself/cp77research) repositories, whose code I ~~stole~~ used to get the information needed for this.
+Big thanks to [Seberoth's CpBnkReader](https://github.com/seberoth/CpBnkReader) and [HitmanHimself's cp77research](https://github.com/HitmanHimself/cp77research) repositories, whose code I ~~stole~~ used to get the information needed for this:
+
+- [My CpBnkReader fork](https://github.com/Zhincore/CpBnkReader)
+- [My OpusToolZ fork from cp77research](https://github.com/Zhincore/OpusToolZ)
+
+Feel free to [join my Cyberpunk voice modding Discord server](https://discord.gg/5mVrUh34Nd)!
