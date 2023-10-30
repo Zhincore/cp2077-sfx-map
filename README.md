@@ -17,5 +17,6 @@ Big thanks to [Seberoth's CpBnkReader](https://github.com/seberoth/CpBnkReader) 
 
 - [My CpBnkReader fork](https://github.com/Zhincore/CpBnkReader)
 - [My OpusToolZ fork from cp77research](https://github.com/Zhincore/OpusToolZ)
+- [My voice-over modding tool](https://github.com/Zhincore/cp2077-voiceswap) - This project includes the code to generate this json
 
 Feel free to [join my Cyberpunk voice modding Discord server](https://discord.gg/5mVrUh34Nd)!
