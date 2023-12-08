@@ -2,7 +2,7 @@
 
 > Map of SFX events and their audio files in Cyberpunk 2077.
 
-**Last update:** Patch 2.02 + Phantom Liberty DLC
+**Last update:** Patch 2.1 + Phantom Liberty DLC
 
 - This repository contains a file named `sfx_map.json`.
 - It contains all SFX events, their tags and info about the audio files the event triggers.
