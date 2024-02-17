@@ -10,6 +10,7 @@
   - Info about the audio files (if found) includes in which opuspak and where in the opuspak the audio is.
 - **Newly** this repository also contains `subtitles.json`!
   - This file contains mapping of voiceover files to their EN-US subtitles.
+  - **Note:** The same subtitle may exist for holocall and non-holocall audio, bear that in mind!
 
 I hope this file helps you find the sound effects you want to extract!  
 Happy modding!
