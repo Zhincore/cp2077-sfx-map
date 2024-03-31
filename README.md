@@ -1,5 +1,11 @@
 # Cyberpunk 2077 SFX map
 
+**I WILL NO LONGER UPDATE THIS REPOSITORY!**  
+GitHub's limits on bandwidth are too limiting.  
+Use <https://cp-sfx.zhincore.eu/> for searching SFX and subtitles instead!
+
+## Old readme
+
 > Map of SFX events and their audio files in Cyberpunk 2077.
 > **NEW**: Map of subtitles and their audio voiceover.
 
